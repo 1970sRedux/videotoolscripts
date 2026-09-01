@@ -383,7 +383,7 @@ Working directory now has `rundown.txt`, `broadcast.conf`, `broadcast_memory.txt
 
 ### 4. What Sam does with the pack
 
-Copy `broadcast_pack/` to a stick, take it to the Mac.
+Copy `broadcast_pack/` to a stick, take it to the Mac (or stay on the Linux Box. M Series Macs were tested because of super fast video encoding. Just make sure you have handbrakecli installed on the Linux Box)
 
 Quick check, no encode yet:
 
