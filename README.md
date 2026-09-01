@@ -426,7 +426,7 @@ To pretend you have never aired anything, delete `broadcast_memory.txt`. To star
 
 ---
 
-## Formats and gotchas
+## Formats and Possible Errors
 
 Video extensions the assembler will pick up: mp4, mkv, mov, webm, m4v, avi, mpg, mpeg, wmv, flv, ts, vob, m2ts. Hidden files (`.*`) are ignored. `renumber_inserts_v2.sh` recognizes a slightly shorter list (no mpeg/ts/vob/m2ts); rename those first or add the extension in the script if you care.
 
