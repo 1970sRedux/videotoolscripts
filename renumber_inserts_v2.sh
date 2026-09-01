@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-# renumber_inserts_v1.sh — Linux only
+# renumber_inserts_v2.sh — Linux only
 # Prefix video files with 001_, 002_, 003_... for the broadcast assembler.
 # Original name is kept after the underscore.
 #   open.mp4             -> 001_open.mp4
